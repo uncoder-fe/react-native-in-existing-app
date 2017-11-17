@@ -1,0 +1,14 @@
+{
+    "name": "MyReactNativeApp",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "node node_modules/react-native/local-cli/cli.js start"
+    },
+    "dependencies": {
+        "antd-mobile": "^2.0.3",
+        "react": "^16.1.1",
+        "react-native": "^0.50.3",
+        "react-router-native": "^4.2.0"
+    }
+}

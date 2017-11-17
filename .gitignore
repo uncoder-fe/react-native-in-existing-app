@@ -1,0 +1,7 @@
+node_modules
+yarn.lock
+.DS_STORE
+.idea
+/ios/myApp.xcworkspace
+/ios/Pods
+/ios/Podfile.lock
